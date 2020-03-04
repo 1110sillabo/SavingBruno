@@ -7,7 +7,7 @@ While the story unfolds, you'll learn some Python essentials.
 # Game Status
 
 The first map is out there working. Find out what's goin' on, build your team and set out to the world.
-[Get the game here](http://www.thegui.eu/blog/Saving Bruno A Role Python Gamification.exe). (Largish file.)
+[Get the game here](http://www.thegui.eu/blog/Saving%20Bruno%20A%20Role%20Python%20Gamification.exe). (Largish file.)
 
 
 
